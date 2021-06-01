@@ -1,0 +1,17 @@
+.about
+{
+    background-color: #1ABC9C;
+
+}
+.about .container-sm
+{
+    font-size: 20px;
+}
+
+.star-icon .line {
+    background-color: white;
+  }
+  
+  .star-icon i.fa-star {
+    color: white !important;
+  }

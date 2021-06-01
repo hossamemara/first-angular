@@ -1,0 +1,29 @@
+.modal-div
+{
+    position: fixed;
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    background-color: rgba(2, 2, 2, 0.5);
+    z-index: 9999999999999999999;
+    height: 1500px;
+    
+}
+.modal-view
+{
+    position: fixed;
+    top:50px;
+    bottom:50px;
+    left:50px;
+    right:50px;
+height: 100%;
+}
+.close-icon
+{
+    right: 20px;
+    top:20px;
+}
+
+@media (min-width: 576px){.modal-dialog { max-width: 1200px;}} 
+

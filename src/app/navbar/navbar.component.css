@@ -1,0 +1,7 @@
+.nav-links-active
+{
+    background-color: #1ABC9C;
+    border-radius: 15%;
+    transition: 0.3s all ease-in-out;
+    padding: 10px;
+}

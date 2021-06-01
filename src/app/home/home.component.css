@@ -1,0 +1,23 @@
+.avatar
+{
+    width:250px;
+    height: 250px;
+}
+.home
+{
+    background-color: #1ABC9C;
+}
+
+.home h2{
+font-weight: 800;
+font-size: 60px;
+color: white;
+}
+
+.star-icon .line {
+    background-color: white;
+  }
+  
+  .star-icon i.fa-star {
+    color: white !important;
+  }
